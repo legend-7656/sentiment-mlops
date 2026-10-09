@@ -1,0 +1,28 @@
+# Version Control
+.git
+.gitignore
+
+# Python Virtual Environments
+.venv
+venv/
+env/
+
+# Python Bytecode and Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Test Directories and Artifacts
+tests/
+htmlcov/
+.coverage
+
+# Environment Variables and Sensitive Files
+.env
+.env.*
+
+# IDEs and Editors
+.vscode/
+.idea/
